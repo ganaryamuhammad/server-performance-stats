@@ -7,3 +7,5 @@ Simple Bash script to analyze Linux server performance.
 ```bash
 chmod +x server-stats.sh
 ./server-stats.sh
+
+# https://roadmap.sh/projects/server-stats
